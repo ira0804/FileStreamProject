@@ -1,0 +1,3 @@
+Hello world
+Java programming is fun
+Let's convert this to uppercase
